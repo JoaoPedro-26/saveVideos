@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+hmvZxVO1uA6Za1HK4Vcp5AyeciJ4bKgKaGyckjCKuOrstwcxlgNJrPyORPqOt8oE/QX/Hlm95vS0WUSLlJAw==",
+  "dgSpecHash": "+KrKInnMXFiebla6fnr/79ke5YColB2ZPCmrpaR/iEsQ7vfjcvkArxXSS2qkaPWKLluUmPVZLAm7qMC0+XP9Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\backendICasei.api.csproj",
+  "projectFilePath": "C:\\Users\\nerd\\Desktop\\Konatus\\testeicasei\\backendICasei.api\\backendICasei.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nerd\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\nerd\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

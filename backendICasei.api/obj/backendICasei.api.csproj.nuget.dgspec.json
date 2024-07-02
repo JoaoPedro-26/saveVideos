@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\backendICasei.api.csproj": {}
+    "C:\\Users\\nerd\\Desktop\\Konatus\\testeicasei\\backendICasei.api\\backendICasei.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\backendICasei.api.csproj": {
+    "C:\\Users\\nerd\\Desktop\\Konatus\\testeicasei\\backendICasei.api\\backendICasei.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\backendICasei.api.csproj",
+        "projectUniqueName": "C:\\Users\\nerd\\Desktop\\Konatus\\testeicasei\\backendICasei.api\\backendICasei.api.csproj",
         "projectName": "backendICasei.api",
-        "projectPath": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\backendICasei.api.csproj",
+        "projectPath": "C:\\Users\\nerd\\Desktop\\Konatus\\testeicasei\\backendICasei.api\\backendICasei.api.csproj",
         "packagesPath": "C:\\Users\\nerd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\obj\\",
+        "outputPath": "C:\\Users\\nerd\\Desktop\\Konatus\\testeicasei\\backendICasei.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nerd\\AppData\\Roaming\\NuGet\\NuGet.Config",

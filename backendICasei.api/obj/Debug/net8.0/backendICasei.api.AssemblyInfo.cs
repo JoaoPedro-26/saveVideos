@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backendICasei.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ab74da86f1a5549559135d3c31e3568fe7832dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("backendICasei.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backendICasei.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

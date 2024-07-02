@@ -24,42 +24,5 @@ namespace ICaseiBackend.Controllers
             var videos = await _youTubeService.SearchVideosAsync(query);
             return Ok(videos);
         }
-
-        //[HttpGet("favorites")]
-        //public IActionResult GetFavorites()
-        //{
-        //    return Ok(favoriteVideos);
-        //}
-
-        //[HttpPost("favorites/{videoId}")]
-        //public IActionResult AddFavorite(string videoId)
-        //{
-        //    if (!favoriteVideos.Contains(videoId))
-        //    {
-        //        favoriteVideos.Add(videoId);
-        //    }
-        //    return Ok();
-        //}
-
-        //[HttpDelete("favorites/{videoId}")]
-        //public IActionResult RemoveFavorite(string videoId)
-        //{
-        //    if (favoriteVideos.Contains(videoId))
-        //    {
-        //        favoriteVideos.Remove(videoId);
-        //    }
-        //    return Ok();
-        //}
-
-        //[HttpGet("{videoId}")]
-        //public async Task<ActionResult<Video>> GetVideoDetails(string videoId)
-        //{
-        //    var video = await _youTubeService.GetVideoDetailsAsync(videoId);
-        //    if (video == null)
-        //    {
-        //        return NotFound();
-        //    }
-        //    return Ok(video);
-        //}
     }
 }
