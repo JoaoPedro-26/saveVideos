@@ -5,6 +5,8 @@
 ### Requisitos
 - Docker
 - .NET 5.0 SDK
+- MicroFrontend
+- Sem o uso de frameworks frontend
 
 ### Instalação
 
