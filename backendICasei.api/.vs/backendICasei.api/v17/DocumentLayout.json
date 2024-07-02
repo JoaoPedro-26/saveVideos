@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|c:\\users\\nerd\\desktop\\konatus\\teste-tecnico-imagem\\backendicasei.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|c:\\users\\nerd\\desktop\\konatus\\teste-tecnico-imagem\\backendicasei.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|c:\\users\\nerd\\desktop\\konatus\\teste-tecnico-imagem\\backendicasei.api\\services\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|solutionrelative:services\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|c:\\users\\nerd\\desktop\\konatus\\teste-tecnico-imagem\\backendicasei.api\\controllers\\videoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|solutionrelative:controllers\\videoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|c:\\users\\nerd\\desktop\\konatus\\teste-tecnico-imagem\\backendicasei.api\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64B86B6-3DE2-42AF-8D63-337133667AA2}|backendICasei.api.csproj|solutionrelative:models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Models\\Video.cs",
+              "RelativeDocumentMoniker": "Models\\Video.cs",
+              "ToolTip": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Models\\Video.cs",
+              "RelativeToolTip": "Models\\Video.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:29:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideosController.cs",
+              "DocumentMoniker": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Controllers\\VideosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VideosController.cs",
+              "ToolTip": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Controllers\\VideosController.cs",
+              "RelativeToolTip": "Controllers\\VideosController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:28:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YoutubeService.cs",
+              "DocumentMoniker": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Services\\YoutubeService.cs",
+              "RelativeDocumentMoniker": "Services\\YoutubeService.cs",
+              "ToolTip": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Services\\YoutubeService.cs",
+              "RelativeToolTip": "Services\\YoutubeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:28:09.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:25:45.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\nerd\\Desktop\\Konatus\\teste-tecnico-imagem\\backendICasei.api\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-28T18:25:20.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

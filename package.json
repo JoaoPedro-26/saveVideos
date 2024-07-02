@@ -1,0 +1,17 @@
+{
+    "name": "icasei-frontend",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "sass mf_drawer/styles.scss mf_drawer/styles.css && sass mf_videos/styles.scss mf_videos/styles.css",
+        "start:drawer": "serve mf_drawer -l 3000",
+        "start:videos": "serve mf_videos -l 3001",
+        "test": "jest"
+    },
+    "dependencies": {
+        "sass": "^1.32.8",
+        "serve": "^11.3.2"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}

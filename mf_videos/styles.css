@@ -1,0 +1,138 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+header input {
+  width: 300px;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+header button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007BFF;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+header button:hover {
+  background-color: #0056b3;
+}
+
+main {
+  padding: 20px;
+}
+
+.video-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.video-grid li {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: calc(25% - 20px);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.video-grid img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.video-grid h3 {
+  font-size: 1rem;
+  margin: 10px 0;
+  text-align: center;
+  flex-grow: 1;
+}
+
+.video-grid button {
+  padding: 5px 10px;
+  border: none;
+  background-color: #007BFF;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.video-grid button:hover {
+  background-color: #0056b3;
+}
+
+.favorite-btn {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+  margin-left: auto;
+}
+
+.favorite-btn.favorite {
+  filter: none;
+  background-color: yellow;
+}
+
+.title-list {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+@media (max-width: 1200px) {
+  .video-grid li {
+    width: calc(33.3333% - 20px);
+  }
+}
+
+@media (max-width: 992px) {
+  .video-grid li {
+    width: calc(50% - 20px);
+  }
+}
+
+@media (max-width: 768px) {
+  .video-grid li {
+    width: calc(100% - 20px);
+  }
+}
+
+@media (max-width: 576px) {
+  header {
+    padding: 10px;
+  }
+
+  header input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  header button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}

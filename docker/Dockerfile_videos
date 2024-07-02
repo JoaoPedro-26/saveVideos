@@ -1,0 +1,5 @@
+FROM node:14
+WORKDIR /app
+COPY ../mf_videos /app
+RUN npm install -g serve
+CMD ["serve", "-l", "3001"]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QzQZbRD4Ex9mrkKqLiDofhWvdI6sRI7+W+rkMPMOyI8=",
+  "Source": "backendICasei.api",
+  "BasePath": "_content/backendICasei.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
