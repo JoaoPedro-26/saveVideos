@@ -21,10 +21,12 @@
 Para iniciar as aplicações frontend, abra dois terminais separados no Visual Studio Code e execute os seguintes comandos:
 
 1. No primeiro terminal:
+   ```sh
    npm run start:drawer
    Isso iniciará a aplicação mf_drawer na porta 3000.
 
 1. No primeiro terminal:
+   ```sh
    npm run start:videos
    Isso iniciará a aplicação mf_videos na porta 3001.
 
