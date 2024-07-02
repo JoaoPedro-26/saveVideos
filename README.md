@@ -13,7 +13,8 @@
    git clone https://github.com/seu-usuario/icasei-frontend.git
    cd icasei-frontend
 
-2. Instale as dependências do projeto::
+2. Instale as dependências do projeto:
+   ```sh
    npm install
 
 ### Frontend
@@ -23,12 +24,14 @@ Para iniciar as aplicações frontend, abra dois terminais separados no Visual S
 1. No primeiro terminal:
    ```sh
    npm run start:drawer
-   Isso iniciará a aplicação mf_drawer na porta 3000.
+
+Isso iniciará a aplicação mf_drawer na porta 3000.
 
 1. No primeiro terminal:
    ```sh
    npm run start:videos
-   Isso iniciará a aplicação mf_videos na porta 3001.
+
+Isso iniciará a aplicação mf_videos na porta 3001.
 
 ### Backend
 
